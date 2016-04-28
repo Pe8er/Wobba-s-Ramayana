@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"    "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd" [
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+]>
+<svg>
+<variableSets  xmlns="&ns_vars;">
+	<variableSet  locked="none" varSetName="binding1">
+		<variables>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Title"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Title"></variable>
+		</variables>
+		<v:sampleDataSets  xmlns:v="&ns_vars;" xmlns="&ns_custom;">
+			<v:sampleDataSet  dataSetName="1">
+				<Title>
+					<p>Bāla-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part I</p>
+				</Front_No>
+				<Spine_No>
+					<p>I</p>
+				</Spine_No>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="2">
+				<Title>
+					<p>Ayodhyā-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part II</p>
+				</Front_No>
+				<Spine_No>
+					<p>II</p>
+				</Spine_No>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="3">
+				<Title>
+					<p>Araṇya-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part III</p>
+				</Front_No>
+				<Spine_No>
+					<p>III</p>
+				</Spine_No>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="4">
+				<Title>
+					<p>Kiṣkindhā-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part IV</p>
+				</Front_No>
+				<Spine_No>
+					<p>IV</p>
+				</Spine_No>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="5">
+				<Title>
+					<p>Sundara-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part V</p>
+				</Front_No>
+				<Spine_No>
+					<p>V</p>
+				</Spine_No>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="6">
+				<Title>
+					<p>Yuddha-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part VI</p>
+				</Front_No>
+				<Spine_No>
+					<p>VI</p>
+				</Spine_No>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="7">
+				<Title>
+					<p>Uttara-kāṇḍa</p>
+				</Title>
+				<Front_No>
+					<p>Part VII</p>
+				</Front_No>
+				<Spine_No>
+					<p>VII</p>
+				</Spine_No>
+			</v:sampleDataSet>
+		</v:sampleDataSets>
+	</variableSet>
+</variableSets>
+</svg>
